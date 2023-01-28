@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/typeRacer/static/css/main.6af8769e.css",
+    "main.js": "/typeRacer/static/js/main.1f981482.js",
+    "static/js/787.12600345.chunk.js": "/typeRacer/static/js/787.12600345.chunk.js",
+    "index.html": "/typeRacer/index.html",
+    "main.6af8769e.css.map": "/typeRacer/static/css/main.6af8769e.css.map",
+    "main.1f981482.js.map": "/typeRacer/static/js/main.1f981482.js.map",
+    "787.12600345.chunk.js.map": "/typeRacer/static/js/787.12600345.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6af8769e.css",
+    "static/js/main.1f981482.js"
+  ]
+}
