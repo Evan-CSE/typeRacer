@@ -1,4 +1,9 @@
+body{
+  background-color: bisque;
+}
 .App {
+  margin: 20vh;
+  background-color:wheat ;
   text-align: center;
 }
 
