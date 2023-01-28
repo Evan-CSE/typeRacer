@@ -7,7 +7,7 @@ https://evan-cse.github.io/typeRacer/
         Disabled copying content and pasting them in the input field
     </li>
     <li>
-        Coloring to each character 
+        Word coloring 
     </li>
     <li>
         Shows total time to complete the paragraph 
